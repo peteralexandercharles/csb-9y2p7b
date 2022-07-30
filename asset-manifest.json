@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://peteralexandercharles.github.io/csb-9y2p7b/static/css/main.296d083c.chunk.css",
+    "main.js": "https://peteralexandercharles.github.io/csb-9y2p7b/static/js/main.46f2e1b2.chunk.js",
+    "main.js.map": "https://peteralexandercharles.github.io/csb-9y2p7b/static/js/main.46f2e1b2.chunk.js.map",
+    "runtime-main.js": "https://peteralexandercharles.github.io/csb-9y2p7b/static/js/runtime-main.52172ba2.js",
+    "runtime-main.js.map": "https://peteralexandercharles.github.io/csb-9y2p7b/static/js/runtime-main.52172ba2.js.map",
+    "static/js/2.d0b71d76.chunk.js": "https://peteralexandercharles.github.io/csb-9y2p7b/static/js/2.d0b71d76.chunk.js",
+    "static/js/2.d0b71d76.chunk.js.map": "https://peteralexandercharles.github.io/csb-9y2p7b/static/js/2.d0b71d76.chunk.js.map",
+    "static/js/3.133eae7b.chunk.js": "https://peteralexandercharles.github.io/csb-9y2p7b/static/js/3.133eae7b.chunk.js",
+    "static/js/3.133eae7b.chunk.js.map": "https://peteralexandercharles.github.io/csb-9y2p7b/static/js/3.133eae7b.chunk.js.map",
+    "index.html": "https://peteralexandercharles.github.io/csb-9y2p7b/index.html",
+    "static/css/main.296d083c.chunk.css.map": "https://peteralexandercharles.github.io/csb-9y2p7b/static/css/main.296d083c.chunk.css.map",
+    "static/js/2.d0b71d76.chunk.js.LICENSE.txt": "https://peteralexandercharles.github.io/csb-9y2p7b/static/js/2.d0b71d76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52172ba2.js",
+    "static/js/2.d0b71d76.chunk.js",
+    "static/css/main.296d083c.chunk.css",
+    "static/js/main.46f2e1b2.chunk.js"
+  ]
+}
