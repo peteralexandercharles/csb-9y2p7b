@@ -1,0 +1,2 @@
+(this["webpackJsonplowpoly-hamburger-copy"]=this["webpackJsonplowpoly-hamburger-copy"]||[]).push([[0],{46:function(e,t,o){},52:function(e,t,o){"use strict";o.r(t);var c=o(15),n=o(32),r=(o(46),o(33)),s=o(21);function p(){return Object(s.jsx)(r.a,{scene:"https://prod.spline.design/oC9Uo8crw0mqipYg/scene.splinecode"})}var i=document.getElementById("root");Object(n.createRoot)(i).render(Object(s.jsx)(c.StrictMode,{children:Object(s.jsx)(p,{})}))}},[[52,1,2]]]);
+//# sourceMappingURL=main.aef53566.chunk.js.map
